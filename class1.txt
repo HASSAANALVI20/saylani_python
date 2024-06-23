@@ -1,0 +1,15 @@
+conda --version
+python --version
+
+conda create --name python-9-12-env
+
+conda activate saylani9-12
+
+conda env list
+
+
+8e24a208517425337f2a89597b290710
+
+
+kisi class k andar function milta h method kehlata h
+other wise func
